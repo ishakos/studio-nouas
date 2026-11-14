@@ -380,10 +380,6 @@ header {
   z-index: 2;
 }
 
-.project9 .hero-image img {
-  object-position: center 20%;
-}
-
 @keyframes float {
   0%,
   100% {
